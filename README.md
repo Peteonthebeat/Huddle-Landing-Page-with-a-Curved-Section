@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Peteonthebeat/Huddle-Landing-Page-with-a-Curved-Section.git)
-- Live Site URL: [Add live site URL here](https://peteonthebeat.github.io/Huddle-Landing-Page-with-a-Curved-Section/) 
+- Solution URL: [Solution](https://github.com/Peteonthebeat/Huddle-Landing-Page-with-a-Curved-Section.git)
+- Live Site URL: [Preview](https://peteonthebeat.github.io/Huddle-Landing-Page-with-a-Curved-Section/) 
 
 ### Built with
 

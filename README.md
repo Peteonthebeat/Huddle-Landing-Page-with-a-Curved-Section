@@ -38,4 +38,4 @@ I plan to proceed doing such challenges on the Frontend Mentor Website.
 ## Author
 
 - Website - [POTB](Youtube.com/@POTB_Tech)
-- Frontend Mentor - [@peteonthebeat](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@peteonthebeat](https://www.frontendmentor.io/profile/Peteonthebeat)

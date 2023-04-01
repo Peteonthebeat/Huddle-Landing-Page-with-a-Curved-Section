@@ -37,5 +37,5 @@ I plan to proceed doing such challenges on the Frontend Mentor Website.
 
 ## Author
 
-- Website - [POTB](Youtube.com/@POTB_Tech)
+- Website - [POTB](Youtube.com/@POTBTech)
 - Frontend Mentor - [@peteonthebeat](https://www.frontendmentor.io/profile/Peteonthebeat)
